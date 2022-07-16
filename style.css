@@ -1,0 +1,36 @@
+.nav-main {
+  border: 2px solid black;
+  padding: 0px 30px;
+  font-weight: 600;
+}
+
+.nav-link {
+  margin: 0 7px;
+  color: white;
+  text-shadow: 1px 1px 0.4px tomato;
+}
+
+.nav-pre {
+  background-color: tomato;
+  border-radius: 30px;
+  padding: 5px 20px;
+
+  font-weight: 500;
+}
+
+.hero {
+  background-image: url(img/bg1.jpg);
+  background-size: cover;
+  height: 650px;
+  margin-top: -60px;
+}
+
+.description {
+  padding-top: 100px;
+  text-shadow: 1px 1px 1px tomato;
+}
+
+.col p {
+  color: tomato;
+  margin: 0px;
+}
