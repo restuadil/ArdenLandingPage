@@ -1,3 +1,7 @@
+body {
+  height: 2000px;
+}
+
 .nav-main {
   border: 2px solid black;
   padding: 0px 30px;
@@ -14,14 +18,13 @@
   background-color: tomato;
   border-radius: 30px;
   padding: 5px 20px;
-
   font-weight: 500;
 }
 
 .hero {
   background-image: url(img/bg1.jpg);
   background-size: cover;
-  height: 650px;
+  height: 250px;
   margin-top: -60px;
 }
 
@@ -33,4 +36,8 @@
 .col p {
   color: tomato;
   margin: 0px;
+}
+
+.col h2 {
+  margin-top: 15px;
 }
